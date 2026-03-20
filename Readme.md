@@ -1,7 +1,22 @@
 ```markdown
-# 📚 Piaget - Sistema de Gestão Acadêmica
+# 📚 Piaget - Sistema de Gestão Acadêmica - Engenharia e Qualidade de Software - EQS
 
-Engenharia e Qualidade de Software - EQS
+Acesso ao  Sistema: admin@academico.com
+Senha: admin123
+
+- GitHub Pages: pages.github.com
+
+https://olifrans.github.io/projeto-piaget-gestao-academica-EQS/
+
+
+
+- Vercel: vercel.com
+
+https://projeto-piaget-gestao-academica-eqs.vercel.app/
+
+
+
+
 
 ## 📖 Sobre o Projeto
 
@@ -199,7 +214,7 @@ piaget-gestao-academica/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/piaget-gestao-academica.git
+git clone https://github.com/Olifrans/projeto-piaget-gestao-academica-EQS
 ```
 
 2. **Acesse a pasta do projeto**
@@ -209,24 +224,10 @@ cd piaget-gestao-academica
 
 3. **Abra o arquivo index.html**
    - Opção 1: Clique duas vezes no arquivo `index.html`
-   - Opção 2: Use um servidor local
+   - Opção 2: Use um servidor local Liver-Server
 
-### Servidor Local (opcional)
 
-```bash
-# Python
-python -m http.server 8000
 
-# Node.js
-npx http-server -p 8000
-
-# PHP
-php -S localhost:8000
-```
-
-Acesse: `http://localhost:8000`
-
----
 
 ## 🔐 Credenciais de Acesso
 
@@ -234,7 +235,7 @@ Acesse: `http://localhost:8000`
 |--------|-------|-------|
 | Administrador | admin@academico.com | admin123 |
 
----
+
 
 ## 📖 Guia de Uso
 
@@ -243,10 +244,12 @@ Acesse: `http://localhost:8000`
 - Digite as credenciais
 - Clique em "Entrar"
 
+
 ### 2. Dashboard
 - Visualize KPIs (Escolas, Professores, Alunos, Média Geral)
 - Acompanhe gráficos em tempo real
 - Observe métricas financeiras
+
 
 ### 3. Escolas
 - Clique em "Escolas" no menu
@@ -254,11 +257,13 @@ Acesse: `http://localhost:8000`
 - Visualize a lista com busca em tempo real
 - Exporte dados para Excel
 
+
 ### 4. Professores
 - Clique em "Professores"
 - Selecione a escola
 - Preencha os dados do professor
 - Cadastre e visualize na lista
+
 
 ### 5. Alunos
 - Clique em "Alunos"
@@ -266,16 +271,19 @@ Acesse: `http://localhost:8000`
 - Informe os dados do aluno
 - Adicione nota inicial (opcional)
 
+
 ### 6. Financeiro
 - Clique em "Financeiro"
 - Registre receitas/despesas
 - Visualize extrato e saldo
 - Exporte para Excel
 
+
 ### 7. Relatórios
 - Clique em "Relatórios"
 - Selecione o tipo de relatório
 - Gere PDF ou exporte Excel
+
 
 ### 8. Notificações
 - Clique em "Notificações"
@@ -283,7 +291,7 @@ Acesse: `http://localhost:8000`
 - Crie novas notificações
 - Marque como lida
 
----
+
 
 ## 🧪 Casos de Teste
 
@@ -300,7 +308,7 @@ Acesse: `http://localhost:8000`
 | TC09 | Exportação para Excel | Arquivo XLSX gerado |
 | TC10 | WebSocket em tempo real | Gráficos atualizados |
 
----
+
 
 ## 📊 Métricas de Performance
 
@@ -312,7 +320,7 @@ Acesse: `http://localhost:8000`
 | Responsividade mobile | Layout adaptado | ✅ |
 | Persistência de dados | 100% preservado | ✅ |
 
----
+
 
 ## 🔧 API Técnica
 
@@ -331,6 +339,7 @@ Acesse: `http://localhost:8000`
 | `marcarNotificacaoLida(id)` | id | Marca notificação como lida |
 | `logout()` | - | Encerra sessão |
 
+
 ### LocalStorage Keys
 
 | Chave | Conteúdo |
@@ -340,7 +349,7 @@ Acesse: `http://localhost:8000`
 | `notificacoes` | Histórico de notificações |
 | `academico_user` | Dados do usuário logado |
 
----
+
 
 ## ☁️ Deploy
 
@@ -349,17 +358,13 @@ Acesse: `http://localhost:8000`
 2. Importe seu repositório
 3. Faça deploy automático
 
-### Opção 2: Netlify
-1. Acesse [netlify.com](https://netlify.com)
-2. Arraste a pasta do projeto
-3. Publicação instantânea
 
-### Opção 3: GitHub Pages
+### Opção 2: GitHub Pages
 1. Vá em Settings → Pages
 2. Selecione a branch principal
 3. Salve e acesse o link gerado
 
----
+
 
 ## 🛠️ Melhorias Futuras
 
@@ -374,19 +379,19 @@ Acesse: `http://localhost:8000`
 - [ ] Backup na nuvem
 - [ ] Dashboard personalizável
 
----
+
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
+
 
 ## 👨‍💻 Autor
 
 **Desenvolvido por Piaget**
 
----
+
 
 ## 🙏 Agradecimentos
 
@@ -394,15 +399,15 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Comunidade de desenvolvedores
 - Feedback e contribuições
 
----
+
 
 ## 📧 Contato
 
 Para dúvidas, sugestões ou contribuições:
-- Email: contato@piaget.com.br
-- GitHub: [@piaget](https://github.com/piaget)
+- Email: fransoliveira@gmail.com
+- GitHub: [@olifrans](https://github.com/Olifrans/projeto-piaget-gestao-academica-EQS)
 
----
+
 
 <div align="center">
   <strong>Sistema Piaget - Gestão Acadêmica</strong><br>
@@ -410,34 +415,5 @@ Para dúvidas, sugestões ou contribuições:
 </div>
 ```
 
----
 
-## 📋 **Resumo do README.md**
-
-### ✅ **O que está incluído:**
-
-| Seção | Conteúdo |
-|-------|----------|
-| **Sobre o Projeto** | Descrição completa, objetivos e funcionalidades |
-| **Tecnologias** | Lista de tecnologias e bibliotecas utilizadas |
-| **Estrutura** | Organização dos arquivos do projeto |
-| **Arquitetura** | Diagramas em camadas e classes POO |
-| **Como Executar** | Instruções passo a passo |
-| **Credenciais** | Dados de acesso ao sistema |
-| **Guia de Uso** | Tutorial completo de todas as funcionalidades |
-| **Casos de Teste** | Tabela com testes funcionais |
-| **Métricas** | Performance e resultados |
-| **API Técnica** | Funções globais e LocalStorage |
-| **Deploy** | Opções de hospedagem |
-| **Melhorias Futuras** | Roadmap do projeto |
-| **Licença e Contato** | Informações legais e contato |
-
-### 🎯 **Diferenciais do README:**
-
-- ✅ **Visual atraente** com badges e tabelas
-- ✅ **Organização clara** com emojis e seções
-- ✅ **Diagramas ASCII** para visualização da arquitetura
-- ✅ **Tabelas estruturadas** para fácil consulta
-- ✅ **Passo a passo** detalhado de uso
-- ✅ **Pronto para GitHub** com formatação Markdown
 
