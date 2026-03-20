@@ -11,6 +11,9 @@ Senha: admin123
 - Vercel: Vercel sistema modelo funcionando.
 - [Acesse o link](https://projeto-piaget-gestao-academica-eqs.vercel.app/)
 
+
+https://therapeutic-banjo-dcb.notion.site/PROJETO-Engenharia-e-Qualidade-de-Software-329396b901af80b298cccf1ec841da6f?source=copy_link
+
 ## 📖 Sobre o Projeto
 
 O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenvolvida com tecnologias modernas (HTML5, CSS3, JavaScript ES6+) e arquitetura orientada a objetos. O sistema oferece uma solução integrada para gerenciamento de escolas, professores, alunos, finanças e relatórios, com foco em usabilidade, performance e experiência do usuário.
