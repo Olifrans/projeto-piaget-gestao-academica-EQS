@@ -4,11 +4,11 @@
 Acesso ao  Sistema: admin@academico.com
 Senha: admin123
 
-- GitHub Pages.
+- GitHub Pages sistema modelo funcionando.
 -[Acesse o link](https://olifrans.github.io/projeto-piaget-gestao-academica-EQS/)
 
 
-- Vercel: Vercel.
+- Vercel: Vercel sistema modelo funcionando.
 - [Acesse o link](https://projeto-piaget-gestao-academica-eqs.vercel.app/)
 
 ## 📖 Sobre o Projeto
