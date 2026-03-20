@@ -4,18 +4,12 @@
 Acesso ao  Sistema: admin@academico.com
 Senha: admin123
 
-- GitHub Pages: pages.github.com
-
-https://olifrans.github.io/projeto-piaget-gestao-academica-EQS/
-
+- GitHub Pages.
+Acesse:(https://olifrans.github.io/projeto-piaget-gestao-academica-EQS/)
 
 
-- Vercel: vercel.com
-
-https://projeto-piaget-gestao-academica-eqs.vercel.app/
-
-
-
+- Vercel: Vercel.
+Acesse: (https://projeto-piaget-gestao-academica-eqs.vercel.app/)
 
 
 ## 📖 Sobre o Projeto
@@ -29,7 +23,6 @@ O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenv
 - Garantir segurança e persistência dos dados
 - Oferecer interface intuitiva e responsiva
 
----
 
 ## ✨ Funcionalidades
 
@@ -40,11 +33,13 @@ O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenv
 - ✅ Visualização de detalhes
 - ✅ Exportação para Excel
 
+
 ### 👨‍🏫 Gestão de Professores
 - ✅ Cadastro com vínculo à escola
 - ✅ Controle de especialidade e salário
 - ✅ Busca por nome
 - ✅ Exportação para Excel
+
 
 ### 👨‍🎓 Gestão de Alunos
 - ✅ Matrícula automática
@@ -53,6 +48,7 @@ O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenv
 - ✅ Busca por nome ou matrícula
 - ✅ Exportação para Excel
 
+
 ### 💰 Módulo Financeiro
 - ✅ Registro de receitas e despesas
 - ✅ Categorização por tipo
@@ -60,12 +56,14 @@ O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenv
 - ✅ Extrato completo
 - ✅ Exportação para Excel
 
+
 ### 📊 Dashboard Analítico
 - ✅ KPIs em tempo real
 - ✅ Gráficos interativos (Chart.js)
 - ✅ Distribuição por escola
 - ✅ Tendências de desempenho
 - ✅ WebSocket simulado para dados em tempo real
+
 
 ### 📑 Relatórios Customizáveis
 - ✅ Relatório Geral
@@ -75,17 +73,19 @@ O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenv
 - ✅ Exportação para PDF
 - ✅ Exportação para Excel
 
+
 ### 🔐 Autenticação
 - ✅ Login seguro
 - ✅ Persistência de sessão
 - ✅ Logout
+
 
 ### 📧 Notificações
 - ✅ Sistema de notificações interno
 - ✅ Simulação de envio por email
 - ✅ Marcar como lida/não lida
 
----
+
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -107,7 +107,7 @@ O **Sistema Piaget - Gestão Acadêmica** é uma aplicação web completa desenv
 ### Persistência
 - **LocalStorage** - Armazenamento local dos dados
 
----
+
 
 ## 📁 Estrutura do Projeto
 
@@ -124,7 +124,7 @@ piaget-gestao-academica/
 └── README.md               # Este arquivo
 ```
 
----
+
 
 ## 🏗️ Arquitetura do Sistema
 
@@ -389,7 +389,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Desenvolvido por Piaget**
+**Francisco Oliveira**
 
 
 
@@ -410,7 +410,7 @@ Para dúvidas, sugestões ou contribuições:
 
 
 <div align="center">
-  <strong>Sistema Piaget - Gestão Acadêmica</strong><br>
+  <strong>Projeto Acadêmico Piaget - Gestão Acadêmica</strong><br>
   <em>Versão 2.0.0 - Março 2026</em>
 </div>
 ```
