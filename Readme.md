@@ -1,11 +1,7 @@
 ```markdown
 # 📚 Piaget - Sistema de Gestão Acadêmica
 
-![Versão](https://img.shields.io/badge/version-2.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
-![HTML5](https://img.shields.io/badge/HTML5-✓-orange.svg)
-![CSS3](https://img.shields.io/badge/CSS3-✓-blue.svg)
+Engenharia e Qualidade de Software - EQS
 
 ## 📖 Sobre o Projeto
 
